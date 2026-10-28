@@ -1,0 +1,5 @@
+PennyWise - Smart Expense Tracker
+Type: Java Swing desktop mini project
+Main file: src/SmartExpenseTracker.java
+Data file: expenses.csv (created automatically)
+No external dependencies required.
